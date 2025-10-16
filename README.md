@@ -81,6 +81,10 @@ GET
 * Description:
 Looks up the code, increments the click counter, and issues a 301 (Permanent) redirect to the original URL.
 
+Usage Example:
+```bash
+GET http://localhost:3000/abcde1
+```
 ---
 
 3. Analytics (Click Tracking)
