@@ -116,3 +116,9 @@ Storage: Data is currently stored in-memory using a JavaScript object (urlMap). 
 Validation: The input URL is validated using the validator library to ensure it is a properly formatted URL string.
 
 Unique Code Generation: A base-36 random string generator ensures unique, 6-character short codes.
+
+## 🧑‍💻 Author
+
+Ayush Gupta
+
+Feel free to fork, improve, or extend this project!
